@@ -5,7 +5,6 @@ public class TerrainControl : MonoBehaviour {
 
     // the terrain generator component.
     public TerrainGenerator generator;
-    public FlyCamera flyCamera;
     // Value ranges.
     public float maxDetail;
     public float minDetail;
