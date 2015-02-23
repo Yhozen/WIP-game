@@ -42,7 +42,7 @@ if(slider >= 1.0)
 {
 	slider = 0;
 }
-
+//eliminar siguiente linea para quitar Slider
 slider= GUI.HorizontalSlider( Rect(20,20,200,30), slider, 0,1.0);
 Hour= slider*24;
 Tod= slider2*24;
