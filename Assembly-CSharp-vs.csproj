@@ -46,10 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BACK.cs" />
      <Compile Include="Assets\Infinite Terrain\Scripts\SimplexNoise.cs" />
      <Compile Include="Assets\Infinite Terrain\Scripts\TerrainControl.cs" />
      <Compile Include="Assets\Infinite Terrain\Scripts\TerrainGenerator.cs" />
      <Compile Include="Assets\Inicio.cs" />
+     <Compile Include="Assets\Menu.cs" />
      <None Include="Assets\DayNightCycle\TOD\shader\SkyboxBlend.shader" />
      <None Include="Assets\Standard Assets\Detonator\Resources\Detonator\Textures\HeatDistort.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">

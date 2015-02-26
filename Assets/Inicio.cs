@@ -14,7 +14,7 @@ public class Inicio : MonoBehaviour {
 	}
 	    public void Update () {
 	   if (Input.GetKey ("escape")) {
-		   ChangeScene(0);
+		   ChangeScene(2);
 	}
 }
 }
