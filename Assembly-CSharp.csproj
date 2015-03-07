@@ -49,13 +49,12 @@
      <Compile Include="Assets\Infinite Terrain\Scripts\SimplexNoise.cs" />
      <Compile Include="Assets\Infinite Terrain\Scripts\TerrainControl.cs" />
      <Compile Include="Assets\Infinite Terrain\Scripts\TerrainGenerator.cs" />
-     <Compile Include="Assets\Scripts\Dof.cs" />
+     <Compile Include="Assets\Scripts\AudioSlider.cs" />
      <Compile Include="Assets\Scripts\Inicio.cs" />
      <Compile Include="Assets\Scripts\InputNAME.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\Opciones.cs" />
      <None Include="Assets\DayNightCycle\TOD\shader\SkyboxBlend.shader" />
-     <None Include="Assets\Standard Assets\Detonator\Resources\Detonator\Textures\HeatDistort.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll</HintPath>
  </Reference>
