@@ -52,7 +52,7 @@
      <Compile Include="Assets\Scripts\AudioSlider.cs" />
      <Compile Include="Assets\Scripts\Dof.cs" />
      <Compile Include="Assets\Scripts\Inicio.cs" />
-     <Compile Include="Assets\Scripts\InputNAME.cs" />
+     <Compile Include="Assets\Scripts\InputCharName.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\Opciones.cs" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />

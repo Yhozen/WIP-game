@@ -1,9 +1,14 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
-
+using UnityEngine.UI;
 public class AudioSlider : MonoBehaviour {
- public float VolumenCancion = 1F;
-public  void Examplo(float Sonido) {
-        Sonido = AudioListener.volume;
-    }
+	public Text  charText;
+	// Use this for initialization
+	void Start () {
+	charText = GameObject.Find("CharText").GetComponent<Text>();
+	}
+
+public void CharacterField(string inputFieldString) {
+	charText.text = inputFieldString;
+}
 }
