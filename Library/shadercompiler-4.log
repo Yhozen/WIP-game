@@ -1,9 +1,28 @@
 Base path: C:/Program Files (x86)/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-4-2912
+Pipe name: \\.\pipe\UnityShaderCompiler-4-6756
 Cmd: getPlatforms
 Cmd: compileSnippet
-  error: 2 plat 8 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
-  api=8 type=1 insize=1623 outsize=0 kw= ok=0
+  api=1 type=1 insize=2934 outsize=570 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2924 outsize=544 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2936 outsize=553 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1059 outsize=248 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=11201 outsize=544 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=11209 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=11215 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=11225 outsize=3334 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=11212 outsize=688 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=11211 outsize=1758 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=11217 outsize=6 kw= ok=1
 Unhandled exception: Readfile from pipe failed. GLE=Ha terminado la canalización.
 
 
