@@ -1,7 +1,7 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
-public class AudioSlider : MonoBehaviour {
+public class InputNameField : MonoBehaviour {
 	public Text  charText;
 	// Use this for initialization
 	void Start () {
