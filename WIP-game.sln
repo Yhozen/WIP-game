@@ -1,13 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{B7163E72-D1CB-8442-3623-EE8351598C46}") = "WIP-game", "Assembly-CSharp-firstpass.csproj", "{C093BBD1-FFFC-0907-EE0C-EF29B9DBA11B}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIP-game", "Assembly-CSharp-firstpass.csproj", "{C093BBD1-FFFC-0907-EE0C-EF29B9DBA11B}"
 EndProject
-Project("{B7163E72-D1CB-8442-3623-EE8351598C46}") = "WIP-game", "Assembly-CSharp.csproj", "{75899515-46CD-E8AC-A634-2D6EB43893D4}"
-EndProject
-Project("{B7163E72-D1CB-8442-3623-EE8351598C46}") = "WIP-game", "Assembly-UnityScript-firstpass.unityproj", "{E022454F-C010-33E9-0F86-6F73AD1B585D}"
-EndProject
-Project("{B7163E72-D1CB-8442-3623-EE8351598C46}") = "WIP-game", "Assembly-UnityScript.unityproj", "{19E73BED-305A-4B33-8260-8409ACEE9908}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIP-game", "Assembly-CSharp.csproj", "{75899515-46CD-E8AC-A634-2D6EB43893D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +19,6 @@ Global
 		{75899515-46CD-E8AC-A634-2D6EB43893D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75899515-46CD-E8AC-A634-2D6EB43893D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75899515-46CD-E8AC-A634-2D6EB43893D4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E022454F-C010-33E9-0F86-6F73AD1B585D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E022454F-C010-33E9-0F86-6F73AD1B585D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E022454F-C010-33E9-0F86-6F73AD1B585D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E022454F-C010-33E9-0F86-6F73AD1B585D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{19E73BED-305A-4B33-8260-8409ACEE9908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19E73BED-305A-4B33-8260-8409ACEE9908}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19E73BED-305A-4B33-8260-8409ACEE9908}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19E73BED-305A-4B33-8260-8409ACEE9908}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -54,5 +42,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
