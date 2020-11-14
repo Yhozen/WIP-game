@@ -12,8 +12,8 @@ public class Inicio : MonoBehaviour {
 		SceneManager.LoadScene(sceneToChangeTo, LoadSceneMode.Single);
 	}
     public void Update () {
-	   if (Input.GetKey ("escape")) {
+	   if (Input.GetKey("escape")) {
 		   ChangeScene(2);
+		}
 	}
-}
 }
