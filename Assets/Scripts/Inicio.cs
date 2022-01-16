@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Inicio : MonoBehaviour
 {
@@ -10,7 +11,7 @@ public class Inicio : MonoBehaviour
 
     public void ChangeScene(int sceneToChangeTo)
     {
-        Application.LoadLevel(sceneToChangeTo);
+        SceneManager.LoadScene(sceneToChangeTo);
     }
     public void Update()
     {

@@ -87,7 +87,7 @@ public class Menu : MonoBehaviour
         if (GUILayout.Button("Play Game"))
         {
             //play game is clicked
-            Application.LoadLevel(levelToLoadWhenClickedPlay);
+            SceneManager.LoadScene(levelToLoadWhenClickedPlay);
         }
         if (GUILayout.Button("Options"))
         {
