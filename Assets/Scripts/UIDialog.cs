@@ -13,6 +13,6 @@ public class UIDialog : MonoBehaviour
 
     void Update()
     {
-        TextName.text = "Hi " + CharName + " Fuck you";
+        TextName.text = $"Hi {CharName} Fuck you";
     }
 }
